@@ -12,9 +12,11 @@ Name : Yasmin Hana binti Zulkifli Matric number : 1914198
 iii. Assigned task for each group member :
 
 Aisyah :
+-create class
 
-create class
 Yasmin :
+-plan output
+-create function
 
 plan output
 create function
