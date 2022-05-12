@@ -13,12 +13,12 @@ iii. Assigned task for each group member :
 
 Aisyah :
 
--create class
+- create class
+- main function
 
 Yasmin :
 
--plan output
-
--create function
+- plan output
+- create function
 
 iv. Brief description of the case study : our case study is to store the parcel based on house number. Each of the house storage can only store a maximum number of 5 parcel for 2 days maximum. After 2 days, the overdue parcels will be returned to the sender.
