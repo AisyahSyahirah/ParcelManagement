@@ -18,7 +18,7 @@ class Parcel {
   }
 }
 
-//Nur Aisyah Syahirah binti Osman 1819266
+//Nur Aisyah Syahirah binti Osman 
 void main() {
 
     for (var x = 1; x <= 30; x++) {
