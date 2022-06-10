@@ -3,9 +3,6 @@
 
 
 // Nur Aisyah Syahirah binti Osman 1819266
-import 'dart:ffi';
-import 'dart:io';
-
 class Storage {
   dynamic housenum;
 
