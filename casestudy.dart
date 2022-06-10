@@ -1,6 +1,8 @@
 // Nur Aisyah Syahirah binti Osman 1819266
 // Yasmin Hana binti Zulkifli 1914198 
 
+
+// Nur Aisyah Syahirah binti Osman 1819266
 import 'dart:io';
 import 'casestudycalc.dart';
 
@@ -18,6 +20,7 @@ void main() {
       stdout.write("Input the number: ");
       input = int.parse(stdin.readLineSync()!);
 
+// Yasmin Hana binti Zulkifli 1914198 
       if (input == 1) {
         print("\n" + "-Parcel Entry-");
         stdout.write("Enter the house number: ");
