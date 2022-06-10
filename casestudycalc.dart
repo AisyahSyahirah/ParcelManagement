@@ -1,6 +1,8 @@
 // Nur Aisyah Syahirah binti Osman 1819266
 // Yasmin Hana binti Zulkifli 1914198 
 
+
+// Nur Aisyah Syahirah binti Osman 1819266
 import 'dart:ffi';
 import 'dart:io';
 
@@ -22,6 +24,7 @@ class Storage {
   }
 
   //function
+  // Yasmin Hana binti Zulkifli 1914198 
   void storecalc(var house, var num) {
     var i = 0;
     if (housenum[house - 1][4] != 0) {
@@ -45,6 +48,7 @@ class Storage {
     print("Parcel will be returned to sender after $overdued");
   }
 
+  // Nur Aisyah Syahirah binti Osman 1819266
   void display() {
     for (var i = 1; i <= 30; i++) {
       var newhousenum = housenum[i - 1];
